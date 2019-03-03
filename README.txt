@@ -1,10 +1,12 @@
-# Jokenpo
-Aplicação desenvolvida na linguagem Java + Junit simulando um jogo, entre um jogador e o "computador" que escolhem um dentre três possíveis itens: 
+#Jokenpo
+Aplicação desenvolvida na linguagem Java + Junit simulando um jogo, entre um jogador e o "computador" que escolhe dentre três possíveis itens: 
 1 - Pedra; 
 2 - Papel;
 3 - Tesoura.
 
-# Regras
+#Regras
 Papel empata com Papel e ganha de Pedra.
-Tesoura empata com Tesoura e ganha de Papel e papel empata com Papel e ganha de Pedra
+Tesoura empata com Tesoura e ganha de Papel
+Papel empata com Papel e ganha de Pedra
 
+Link do problema: http://dojopuzzles.com/problemas/exibe/jokenpo/
